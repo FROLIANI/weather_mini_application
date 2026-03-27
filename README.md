@@ -1,4 +1,4 @@
-# weather-application
+### MINI-WEATHER-APPLICATION
 
 This mini weather application  that helps to determine weather condition for a place  in simple detaisl
 
