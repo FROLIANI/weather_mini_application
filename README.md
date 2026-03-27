@@ -22,7 +22,7 @@ This mini weather application  that helps to determine weather condition for a p
 
 ## Sample response when search location
 
-``
+````
 {
     "location": {
         "name": "Dodoma",
@@ -74,5 +74,5 @@ This mini weather application  that helps to determine weather condition for a p
         "gti": 762.25
     }
 }
-``
+````
 
