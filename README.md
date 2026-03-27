@@ -76,7 +76,7 @@ This mini weather application  that helps to determine weather condition for a p
 }
 ````
 
-## Sample response when search location Found
+## Sample response when search location Not Found
 ````
 {
 "error":{
