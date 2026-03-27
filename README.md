@@ -1,44 +1,21 @@
 # weather-application
 
-This template should help get you started developing with Vue 3 in Vite.
+This mini weather application  that helps to determine weather condition for a place  in simple detaisl
 
-## Recommended IDE Setup
+## Sample output
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+# Before Enter the location
+<img width="1686" height="575" alt="image" src="https://github.com/user-attachments/assets/82d30bd6-49d1-4126-a48a-4d20bf55e5da" />
 
-## Recommended Browser Setup
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+# After Enter the location( sample various city)
 
-## Customize configuration
+<img width="861" height="626" alt="image" src="https://github.com/user-attachments/assets/82eb6b2e-375e-4ddd-a5ea-bd493429de91" />
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+<img width="788" height="643" alt="image" src="https://github.com/user-attachments/assets/8ac01bdc-caf1-4673-9f49-55ab31aaff18" />
 
-## Project Setup
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
+# Handled  location if not found
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
+<img width="789" height="404" alt="image" src="https://github.com/user-attachments/assets/64fa5115-f171-41e4-847a-230aad5222d8" />
