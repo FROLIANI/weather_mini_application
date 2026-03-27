@@ -20,7 +20,7 @@ This mini weather application  that helps to determine weather condition for a p
 
 <img width="789" height="404" alt="image" src="https://github.com/user-attachments/assets/64fa5115-f171-41e4-847a-230aad5222d8" />
 
-## Sample response when search location
+## Sample response when search location Found
 
 ````
 {
@@ -74,5 +74,16 @@ This mini weather application  that helps to determine weather condition for a p
         "gti": 762.25
     }
 }
+````
+
+## Sample response when search location Found
+````
+{
+"error":{
+"code":1006,
+"message":"No matching location found."
+}
+}
+
 ````
 
